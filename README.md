@@ -1,7 +1,7 @@
 # mnchrd
 
 Jestem początkującym programistą, obecnie studiującym na Akademii Górniczo-Hutniczej w Krakowie.
-Szczególnie interesuję się teorią układów dynamicznych oraz powiązaną z nimi analiza funkcjonalną.
+Szczególnie interesuję się teorią układów dynamicznych oraz powiązaną z nimi analizą funkcjonalną.
 
 # PoorMP3
 
